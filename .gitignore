@@ -1,0 +1,129 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# profiling
+.prof
+
+# pyre type checker
+.pyre/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.bin
+*.npz
+model_weights/
+checkpoints/
+checkpoint_*/
+checkpoint*/
+checkpoint_*.*/
+
+# DeepSpeed / ZeRO
+deepspeed_checkpoint*/
+
+# DeepSpeed config/artifacts
+deepspeed_config.json
+
+# Training outputs / tensorboard
+runs/
+tensorboard/
+tb_logs/
+*.tfevents.*
+
+# Dataset / large files
+masked_dataset/
+iris_data/
+train/
+test/
+*.tar
+*.tar.gz
+*.zip
+
+# Environment / secrets
+.env
+.env.*
+
+# Misc
+*.pem
+*.key
+
+# Compiled java classes / other
+*.class
+
+# End of file
+
+# Ignore nested git repositories
+# Note: the repository root `.git` directory is managed by Git and cannot be ignored.
+# These patterns cover nested/.submodule .git dirs that you may want ignored.
+**/.git/
+**/.git
