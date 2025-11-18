@@ -122,8 +122,4 @@ test/
 
 # End of file
 
-# Ignore nested git repositories
-# Note: the repository root `.git` directory is managed by Git and cannot be ignored.
-# These patterns cover nested/.submodule .git dirs that you may want ignored.
-**/.git/
-**/.git
+
