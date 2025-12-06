@@ -1,6 +1,8 @@
 import Augmentor
 import os
 
+
+#cd in ADL_Project
 input_dir = "/home/aryan/Desktop/Adl_assignment_1/masked_dataset/train"
 subjects = os.listdir(input_dir)
 
