@@ -2,11 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Evaluation/LOGS/*
+LOGS/*
 masked_dataset_*
 # C extensions
 *.so
-
+edgeface/__init__.py
 # Distribution / packaging
 .Python
 build/
