@@ -11,7 +11,7 @@ except Exception:
 # HYPERPARAMETERS (edit as needed)
 INPUT_DIR = "./masked_dataset/"
 OUTPUT_DIR = "./masked_dataset_augmented/"
-N_AUG_PER_IMAGE = 3
+N_AUG_PER_IMAGE = 50
 
 
 def _read_image(p):
