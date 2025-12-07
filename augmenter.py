@@ -10,7 +10,7 @@ except Exception:
 
 # HYPERPARAMETERS (edit as needed)
 INPUT_DIR = "./masked_dataset/"
-OUTPUT_DIR = "./Masked_dataset_augmented/"
+OUTPUT_DIR = "./masked_dataset_augmented/"
 N_AUG_PER_IMAGE = 3
 
 

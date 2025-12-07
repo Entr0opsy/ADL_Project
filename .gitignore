@@ -6,7 +6,7 @@ __pycache__/
 masked_dataset_*
 # C extensions
 *.so
-
+edgeface/__init__.py
 # Distribution / packaging
 .Python
 build/
