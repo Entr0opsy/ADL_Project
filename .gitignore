@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Evaluation/LOGS/*
 masked_dataset_*
 # C extensions
 *.so
